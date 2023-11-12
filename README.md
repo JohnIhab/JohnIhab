@@ -1,6 +1,6 @@
 
 
-<p align="left">My name is John and I'm a frontend developer from Minya el-kameh</p>
+<h4 align="left">My name is John and I'm a frontend developer from Minya el-kameh</p>
 
 ###
 <div align="center">
